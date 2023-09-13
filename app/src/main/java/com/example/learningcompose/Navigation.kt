@@ -64,7 +64,6 @@ fun MainScreen(navController: NavController) {
         }, modifier = Modifier.align(Alignment.End)) {
             Text(text = "To DetailScreen")
         }
-
     }
 }
 
